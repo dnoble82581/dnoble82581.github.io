@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpeaceproxy_docs=self.webpackChunkpeaceproxy_docs||[]).push([[9647],{7121:(e,s,r)=>{r.r(s),r.d(s,{default:()=>n});r(6540);var c=r(4164),a=r(7559),p=r(5500),u=r(2831),o=r(1656),d=r(4848);function n(e){return(0,d.jsx)(p.e3,{className:(0,c.A)(a.G.wrapper.docsPages),children:(0,d.jsx)(o.A,{children:(0,u.v)(e.route.routes)})})}}}]);
